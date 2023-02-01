@@ -1,12 +1,13 @@
 # NonLethalTasers
 **Install:**
+
 To Install this drag "NonLethalTasers" Folder into your server resources folder.
 
 Then go into your server.cfg and add "ensure NonLethalTasers" at the bottom.
 
 --------------------------------------------------------------------------------
 
-**Credits: **
+**Credits:**
 
 CyCoSnag's Weapon Metas Resource:
 
