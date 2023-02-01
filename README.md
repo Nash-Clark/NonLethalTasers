@@ -9,9 +9,13 @@ Then go into your server.cfg and add "ensure NonLethalTasers" at the bottom.
 
 **Credits:**
 
-CyCoSnag's Weapon Metas Resource:
+*CyCoSnag's Weapon Metas:*
 
-Idea to create this, providing info on how I could achieve this.
+Resource that provided info on how I could achieve creating this.
+
+*RtheAmazing's Realistic Ped Damages:*
+
+Idea to create the recourse after I could not find the file after GTAPoliceMods went down.
 
 --------------------------------------------------------------------------------
 
