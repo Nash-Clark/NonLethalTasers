@@ -15,7 +15,7 @@ Resource that provided info on how I could achieve creating this.
 
 *RtheAmazing's Realistic Ped Damages:*
 
-Idea to create the recourse after I could not find the file after GTAPoliceMods went down.
+Idea to create the resource after I could not find the file after GTAPoliceMods went down.
 
 --------------------------------------------------------------------------------
 
