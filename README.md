@@ -22,3 +22,5 @@ Idea to create the resource after I could not find the file after GTAPoliceMods 
 --------------------------------------------------------------------------------
 
 __***PLEASE DO NOT REUPLOAD WITHOUT PERMISSION!***__
+
+Version: 1.0.1
