@@ -11,7 +11,8 @@ Then go into your server.cfg and add "ensure NonLethalTasers" at the bottom.
 
 *CyCoSnag's Weapon Metas:*
 
-Resource that provided info on how I could achieve creating this.
+--Resource that provided info on how I could achieve creating this.--
+Initial Release Information
 
 *RtheAmazing's Realistic Ped Damages:*
 
